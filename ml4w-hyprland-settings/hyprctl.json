@@ -1,0 +1,74 @@
+[
+    {
+        "key": "general:col.active_border",
+        "value": "rgb(1a5fb4)"
+    },
+    {
+        "key": "general:col.inactive_border",
+        "value": "rgb(3584e4)"
+    },
+    {
+        "key": "general:border_size",
+        "value": 1
+    },
+    {
+        "key": "decoration:rounding",
+        "value": 5
+    },
+    {
+        "key": "general:allow_tearing",
+        "value": true
+    },
+    {
+        "key": "general:no_border_on_floating",
+        "value": true
+    },
+    {
+        "key": "general:gaps_workspaces",
+        "value": 1
+    },
+    {
+        "key": "general:gaps_out",
+        "value": 1
+    },
+    {
+        "key": "decoration:inactive_opacity",
+        "value": 1.0
+    },
+    {
+        "key": "decoration:drop_shadow",
+        "value": true
+    },
+    {
+        "key": "decoration:shadow_range",
+        "value": 30
+    },
+    {
+        "key": "decoration:dim_inactive",
+        "value": true
+    },
+    {
+        "key": "decoration:blur:enabled",
+        "value": false
+    },
+    {
+        "key": "decoration:blur:passes",
+        "value": 30
+    },
+    {
+        "key": "decoration:blur:size",
+        "value": 34
+    },
+    {
+        "key": "decoration:blur:noise",
+        "value": 0.2
+    },
+    {
+        "key": "decoration:blur:popups",
+        "value": true
+    },
+    {
+        "key": "animations:enabled",
+        "value": true
+    }
+]
